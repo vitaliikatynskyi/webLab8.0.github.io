@@ -1,0 +1,22 @@
+.block{
+    background: #cdcdcd;
+
+}
+.box1{
+    background: #9af;
+}
+.box2{
+    background: rgba(25,210,40,1);
+}
+.box3{
+    background: red;
+}
+.g-linen{
+    height: 100px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(233, 122, 122);
+    color: white;
+  }
